@@ -4,7 +4,8 @@ Module square
 prints squares
 
 """
+
+
 class Square:
     """Represents an empty square."""
     pass
-
