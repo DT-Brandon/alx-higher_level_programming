@@ -1,4 +1,11 @@
 #!/usr/bin/python3
+"""
+Module add-integer
+Adds two integer together
+
+"""
+
+
 class Square:
     """Represents a square.
     Private instance attribute: size.
