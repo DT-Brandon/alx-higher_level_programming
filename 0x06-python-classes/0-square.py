@@ -1,5 +1,9 @@
 #!/usr/bin/python3
-    """This is an empty square. """
+"""
+Module square
+prints squares
+
+"""
 class Square:
     """Represents an empty square."""
     pass
