@@ -18,4 +18,3 @@ class MyInt(int):
         """Inequality becomes equality."""
 
         return super().__eq__(other)
-
